@@ -8,15 +8,13 @@ PHP 8.0 or newer.
 
 1. Run "composer install" in command line interface, e.g. via SSH.
 
-## How system should be run? What command to use?
+## How system should be run?
 
-php calculate_fee.php input.csv"
+You should run system by the following command: "php calculate_fee.php input.csv"
 
-## How to initiate system's tests? What command to use? 
+## How to initiate system's tests? 
 
-You can use one of following commands:
-php bin/phpunit tests
-composer run test
+You can use one of following commands: "php bin/phpunit tests" or "composer run test"
 
 ## Short description
 
